@@ -27,3 +27,35 @@
 </div>
 </details>
 
+<summary><h2>기대 결과</h2></summary>
+<img src="2.png">
+<img src="1.png">
+
+<summary><h2>최종 결과</h2></summary>
+<img src="c1.jpeg">
+<img src="c2.jpg">
+<img src="hover.png">
+
+<h3>주요 기능</h3>
+
+<summary> transition & transform 사용하여 이미지에 마우스 호버 시 점차 확대 </summary>
+ 
+```  
+ .main-bottom img {
+    transition: transform 1s ease-out;
+}
+
+.main-bottom img:hover {
+    transform: scale(1.4);
+```
+
+<summary> linear-gradient를 주어 검정색 opacity를 조절하여 배경과 작품 목록 컨테이너 사이의 경계를 부드럽게 표시 </summary>
+ 
+```  
+background: linear-gradient(rgba(0, 0, 0, 0) 1%,
+            rgba(0, 0, 0, 0.85) 4%,
+            rgba(0, 0, 0, 0.95) 20%,
+            rgba(0, 0, 0, 1) 100%);
+```
+
+
