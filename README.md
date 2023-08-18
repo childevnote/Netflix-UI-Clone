@@ -28,13 +28,13 @@
 </details>
 
 <summary><h2>기대 결과</h2></summary>
-<img src="2.png">
-<img src="1.png">
+<img src="img/2.png">
+<img src="img/1.png">
 
 <summary><h2>최종 결과</h2></summary>
-<img src="c1.jpeg">
-<img src="c2.jpg">
-<img src="hover.png">
+<img src="img/c1.jpeg">
+<img src="img/c2.jpg">
+<img src="img/hover.png">
 
 <h3>주요 기능</h3>
 
