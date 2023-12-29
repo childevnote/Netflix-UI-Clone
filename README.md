@@ -27,10 +27,6 @@
 </div>
 </details>
 
-<summary><h2>기대 결과</h2></summary>
-<img src="img/2.png">
-<img src="img/1.png">
-
 <summary><h2>최종 결과</h2></summary>
 <img src="img/c1.jpeg">
 <img src="img/c2.jpg">
